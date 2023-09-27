@@ -1,0 +1,219 @@
+dataset1: #已测试
+  path: "dtp_large/dtp_100_150_0"
+  optimalValue: 152.57
+dataset2: #已测试
+  path: "dtp_large/dtp_100_150_1"
+  optimalValue: 192.21
+dataset3: #已测试
+  path: "dtp_large/dtp_100_150_2"
+  optimalValue: 146.34
+dataset4: #已测试
+  path: "dtp_large/dtp_100_200_0"
+  optimalValue: 135.04
+dataset5: #已测试
+  path: "dtp_large/dtp_100_200_1"
+  optimalValue: 91.88
+dataset6: #已测试，0s
+  path: "dtp_large/dtp_100_200_2"
+  optimalValue: 115.93
+dataset7: #已测试，323s
+  path: "dtp_large/dtp_200_400_0"
+  optimalValue: 257.09
+dataset8: #已测试，6s
+  path: "dtp_large/dtp_200_400_1"
+  optimalValue: 258.77
+dataset9: #已测试，304s
+  path: "dtp_large/dtp_200_400_2"
+  optimalValue: 238.27
+dataset10: #已测试，587s
+  path: "dtp_large/dtp_200_600_0"
+  optimalValue: 121.62
+dataset11: #已测试，369s
+  path: "dtp_large/dtp_200_600_1"
+  optimalValue: 135.08
+dataset12: #已测试，58s
+  path: "dtp_large/dtp_200_600_2"
+  optimalValue: 123.31
+dataset13: #已测试，510s
+  path: "dtp_large/dtp_300_600_0"
+  optimalValue: 348.03
+dataset14: #
+  path: "dtp_large/dtp_300_600_1"
+  optimalValue: 413.93
+dataset15: #已测试，53s
+  path: "dtp_large/dtp_300_600_2"
+  optimalValue: 352.15
+dataset16: #
+  path: "dtp_large/dtp_300_1000_0"
+  optimalValue: 148.63
+dataset17: #已测试，104s
+  path: "dtp_large/dtp_300_1000_1"
+  optimalValue: 164.65
+dataset18: #已测试，589s
+  path: "dtp_large/dtp_300_1000_2"
+  optimalValue: 154.59
+#Range_100***********************************************************************************************************
+dataset19: #已测试，0s
+  path: "Range_100/ins_050_1"
+  optimalValue: 1204.41
+dataset20: #已测试，0s
+  path: "Range_100/ins_050_2"
+  optimalValue: 1340.44
+dataset21: #已测试，0s
+  path: "Range_100/ins_050_3"
+  optimalValue: 1316.39
+dataset22: #已测试，0s
+  path: "Range_100/ins_100_1"
+  optimalValue: 1217.47
+dataset23: #已测试，0s
+  path: "Range_100/ins_100_2"
+  optimalValue: 1128.40
+dataset24: #已测试，8s
+  path: "Range_100/ins_100_3"
+  optimalValue: 1252.99
+dataset25: #已测试，15s
+  path: "Range_100/ins_200_1"
+  optimalValue: 1206.79
+dataset26: #已测试，8s
+  path: "Range_100/ins_200_2"
+  optimalValue: 1213.24
+dataset27: #已测试，5s
+  path: "Range_100/ins_200_3"
+  optimalValue: 1247.25
+dataset28: #已测试，937s
+  path: "Range_100/ins_300_1"
+  optimalValue: 1215.48
+dataset29: #已测试，6s
+  path: "Range_100/ins_300_2"
+  optimalValue: 1170.85
+dataset30: #已测试，27s
+  path: "Range_100/ins_300_3"
+  optimalValue: 1247.51
+dataset31: #已测试，171s
+  path: "Range_100/ins_400_1"
+  optimalValue: 1211.33
+dataset32: #已测试，294s
+  path: "Range_100/ins_400_2"
+  optimalValue: 1197.66
+dataset33: #
+  path: "Range_100/ins_400_3"
+  optimalValue: 1245.31
+dataset34: #
+  path: "Range_100/ins_500_1"
+  optimalValue: 1197.26
+dataset35: #已测试，869s
+  path: "Range_100/ins_500_2"
+  optimalValue: 1220.47
+dataset36: #已测试，61s
+  path: "Range_100/ins_500_3"
+  optimalValue: 1231.81
+#Range_125***********************************************************************************************************
+dataset37: #已测试，0s
+  path: "Range_125/ins_50_1"
+  optimalValue: 802.95
+dataset38: #已测试，0s
+  path: "Range_125/ins_50_2"
+  optimalValue: 1055.10
+dataset39: #已测试，1s
+  path: "Range_125/ins_50_3"
+  optimalValue: 877.77
+dataset40: #已测试，1s
+  path: "Range_125/ins_100_1"
+  optimalValue: 943.01
+dataset41: #已测试，6s
+  path: "Range_125/ins_100_2"
+  optimalValue: 917.00
+dataset42: #已测试，6s
+  path: "Range_125/ins_100_3"
+  optimalValue: 998.18
+dataset43: #已测试，4s
+  path: "Range_125/ins_200_1"
+  optimalValue: 910.17
+dataset44: #已测试，39s
+  path: "Range_125/ins_200_2"
+  optimalValue: 921.76
+dataset45: #已测试，5s
+  path: "Range_125/ins_200_3"
+  optimalValue: 939.58
+dataset46: #已测试，164s
+  path: "Range_125/ins_300_1"
+  optimalValue: 977.65
+dataset47: #已测试，120s
+  path: "Range_125/ins_300_2"
+  optimalValue: 913.01
+dataset48: #已测试，750s
+  path: "Range_125/ins_300_3"
+  optimalValue: 974.78
+dataset49: #已测试，96s
+  path: "Range_125/ins_400_1"
+  optimalValue: 965.99
+dataset50: #已测试，386s
+  path: "Range_125/ins_400_2"
+  optimalValue: 934.17
+dataset51: #已测试，40s
+  path: "Range_125/ins_400_3"
+  optimalValue: 1002.61
+dataset52: #已测试，778s
+  path: "Range_125/ins_500_1"
+  optimalValue: 963.89
+dataset53: #
+  path: "Range_125/ins_500_2"
+  optimalValue: 948.57
+dataset54: #已测试，675s
+  path: "Range_125/ins_500_3"
+  optimalValue: 980.67
+#Range_150************************************************************************************************************
+dataset55: #已测试，0s
+  path: "Range_150/ins_50_1"
+  optimalValue: 647.75
+dataset56: #已测试，0s
+  path: "Range_150/ins_50_2"
+  optimalValue: 863.69
+dataset57: #已测试，0s
+  path: "Range_150/ins_50_3"
+  optimalValue: 743.94
+dataset58: #已测试，2s
+  path: "Range_150/ins_100_1"
+  optimalValue: 876.69
+dataset59: #已测试，0s
+  path: "Range_150/ins_100_2"
+  optimalValue: 657.35
+dataset60: #已测试，0s
+  path: "Range_150/ins_100_3"
+  optimalValue: 722.87
+dataset61: #已测试，13s
+  path: "Range_150/ins_200_1"
+  optimalValue: 809.90
+dataset62: #已测试，1s
+  path: "Range_150/ins_200_2"
+  optimalValue: 736.23
+dataset63: #已测试，2s
+  path: "Range_150/ins_200_3"
+  optimalValue: 792.71
+dataset64: #已测试，231s
+  path: "Range_150/ins_300_1"
+  optimalValue: 796.15
+dataset65: #已测试，60s
+  path: "Range_150/ins_300_2"
+  optimalValue: 741.02
+dataset66: #已测试，36s
+  path: "Range_150/ins_300_3"
+  optimalValue: 819.76
+dataset67: #已测试，601s
+  path: "Range_150/ins_400_1"
+  optimalValue: 795.53
+dataset68: #已测试，337s
+  path: "Range_150/ins_400_2"
+  optimalValue: 779.63
+dataset69: #已测试，502s
+  path: "Range_150/ins_400_3"
+  optimalValue: 814.14
+dataset70: #已测试，104s
+  path: "Range_150/ins_500_1"
+  optimalValue: 792.21
+dataset71: #已测试，155s
+  path: "Range_150/ins_500_2"
+  optimalValue: 779.35
+dataset72: #已测试，115s
+  path: "Range_150/ins_500_3"
+  optimalValue: 808.37
