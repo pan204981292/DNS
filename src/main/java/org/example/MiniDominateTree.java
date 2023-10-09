@@ -59,13 +59,13 @@ public class MiniDominateTree {
                 bestResult = Double.parseDouble(df.format(bestResult));
                 averageValue = Double.parseDouble(df.format(averageValue));
                 System.out.print("数据集 " + path + " 求得的最好值为：" + bestResult + "，");
-                if(bestResult >= optimalValue + 0.005){
-                    System.out.println("没有到达最优值*****");
-                }else if(bestResult < optimalValue + 0.005 && bestResult >= optimalValue - 0.005){
-                    System.out.println("到达了最优值*****");
-                }else{
-                    System.out.println("超过了最优值*****");
-                }
+//                if(bestResult >= optimalValue + 0.005){
+//                    System.out.println("没有到达最优值*****");
+//                }else if(bestResult < optimalValue + 0.005 && bestResult >= optimalValue - 0.005){
+//                    System.out.println("到达了最优值*****");
+//                }else{
+//                    System.out.println("超过了最优值*****");
+//                }
                 System.out.println("数据集 " + path + " 的平均值是：" + averageValue + "，" + "平均时间是：" + averageTime + " 秒**********");
                 System.out.println();
             }
