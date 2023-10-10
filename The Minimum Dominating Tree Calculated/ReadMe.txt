@@ -1,0 +1,1 @@
+The minimum dominating trees calculated from the instances are stored in this folder.
